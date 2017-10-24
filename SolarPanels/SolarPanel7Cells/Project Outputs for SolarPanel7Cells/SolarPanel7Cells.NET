@@ -1,0 +1,29 @@
+NetD7_1           D7                             1
+NetD7_1           U4                             2
+NetD5_2           D5                             2
+NetD5_2           D6                             1
+NetD5_1           D5                             1
+NetD5_1           U1                             2
+NetD3_2           D3                             2
+NetD3_2           D4                             1
+NetD3_1           D3                             1
+NetD3_1           U2                             2
+NetD1_2           D1                             2
+NetD1_2           D2                             1
+NetD1_1           D1                             1
+NetD1_1           U3                             2
+GS PX GND         D2                             2
+GS PX GND         D4                             2
+GS PX GND         D6                             2
+GS PX GND         D7                             2
+GS PX GND         P1                             1
+GS PX GND         P1                             2
+GS PX GND         P2                             2
+GS PX 5.1V        P1                             3
+GS PX 5.1V        P1                             4
+GS PX 5.1V        U1                             1
+GS PX 5.1V        U2                             1
+GS PX 5.1V        U3                             1
+GS PX 2.8V        P2                             1
+GS PX 2.8V        U4                             1
+-1
