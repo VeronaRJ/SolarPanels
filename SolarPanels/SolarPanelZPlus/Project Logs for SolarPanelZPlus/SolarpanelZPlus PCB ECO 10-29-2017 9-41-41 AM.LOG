@@ -1,0 +1,21 @@
+Added Component: Designator=532610471-1(532610471)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(SOD-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MBR0520LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GS P1 Vsc Pin=532610471-1-1
+Added Pin To Net: NetName=GS P1 Vsc Pin=U1-1
+Added Net: Name=GS P1 Vsc
+Added Pin To Net: NetName=GS P1 2.8V Pin=532610471-1-2
+Added Net: Name=GS P1 2.8V
+Added Pin To Net: NetName=NetS1_1 Pin=U1-2
+Added Net: Name=NetS1_1
+Added Member To Class: ClassName=SolarPanelZPlus Member=Component 532610471-1 Connector 4POS Molex PicoBlade
+Added Member To Class: ClassName=SolarPanelZPlus Member=Component U1 MBR0520LT1G
+Added Room: Name=SolarPanelZPlus
