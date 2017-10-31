@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=NetS1_1 Pin=CellZ1-2
+Removed Pin From Net: NetName=NetS1_1 Pin=CellZ1-2
+Removed Pin From Net: NetName=NetS1_1 Pin=Picoblade 4 pin-3
+Change Component Footprint: Designator=Picoblade 4 pin Old Footprint=532610471 - multilayer pads New Footprint=532610471
+Change Component Comment : Designator=Picoblade 4 pin Old Comment=Comment New Comment=Connector 4POS Molex PicoBlade
+Change Component Comment : Designator=CellZ1 Old Comment=Comment New Comment=SolAeroBJTSpaceSolarCell
+Change Component Designator: OldDesignator=CellZ1 NewDesignator=S1
+Change Component Designator: OldDesignator=Picoblade 4 pin NewDesignator=532610471-1
+Added Pin To Net: NetName=GS P1 Vsc Pin=532610471-1-3
+Added Pin To Net: NetName=GS P1 Vsc Pin=532610471-1-4
+Added Pin To Net: NetName=NetS1_1 Pin=S1-1
+Added Pin To Net: NetName=GS P1 GND Pin=532610471-1-1
+Added Pin To Net: NetName=GS P1 GND Pin=532610471-1-2
+Added Pin To Net: NetName=GS P1 GND Pin=S1-2
+Added Pin To Net: NetName=GS P1 GND Pin=S1-2
+Added Net: Name=GS P1 GND
+Added Member To Class: ClassName=SolarPanelZPlus Member=Component 532610471-1 Connector 4POS Molex PicoBlade
+Added Member To Class: ClassName=SolarPanelZPlus Member=Component S1 SolAeroBJTSpaceSolarCell
+Added Room: Name=SolarPanelZPlus
