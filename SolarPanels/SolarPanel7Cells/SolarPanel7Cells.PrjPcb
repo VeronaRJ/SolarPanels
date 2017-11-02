@@ -87,7 +87,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MVHBQGGU
 
 [Document4]
 DocumentPath=..\SolarPanelZPlus\SolarpanelZPlus.PcbLib
@@ -104,7 +104,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DNHGJWLF
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for SolarPanel7Cells\SolarPanel7Cells.NET
