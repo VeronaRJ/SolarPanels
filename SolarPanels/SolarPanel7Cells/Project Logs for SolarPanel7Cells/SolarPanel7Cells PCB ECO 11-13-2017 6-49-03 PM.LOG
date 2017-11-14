@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=532610471-1-1
+Removed Pin From Net: NetName=GND Pin=532610471-1-2
+Removed Pin From Net: NetName=GND Pin=532610471-2-1
+Removed Pin From Net: NetName=GND Pin=532610471-2-2
+Removed Pin From Net: NetName=GS P3 VSC Pin=532610471-2-3
+Removed Pin From Net: NetName=GS P4 VSC Pin=532610471-2-4
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Pin From Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GS P2 VSC Pin=532610471-2-3
+Added Pin To Net: NetName=GS P1 VSC Pin=532610471-2-4
+Change Net Name : Old Net Name=GND New Net Name=NetD3_2
+Change Net Name : Old Net Name=GS P1 VSC New Net Name=P1 VSC
+Change Net Name : Old Net Name=GS P2 VSC New Net Name=P2 VSC
+Change Net Name : Old Net Name=GS P3 VSC New Net Name=P3 VSC
+Change Net Name : Old Net Name=GS P4 VSC New Net Name=C1 VSC
+Change Net Name : Old Net Name=NetD1_1 New Net Name=C1 PV
+Change Net Name : Old Net Name=NetP1_1 New Net Name=P3 PV
+Change Net Name : Old Net Name=NetP2_1 New Net Name=P2 PV
+Change Net Name : Old Net Name=NetP3_1 New Net Name=P1 PV

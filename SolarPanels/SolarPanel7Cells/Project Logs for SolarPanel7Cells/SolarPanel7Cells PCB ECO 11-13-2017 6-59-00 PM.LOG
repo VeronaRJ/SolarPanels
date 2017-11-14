@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NetD3_2 Pin=532610471-1-1
+Added Pin To Net: NetName=NetD3_2 Pin=532610471-1-2
+Added Pin To Net: NetName=NetD3_2 Pin=532610471-2-1
+Added Pin To Net: NetName=NetD3_2 Pin=532610471-2-2
+Added Pin To Net: NetName=NetD3_2 Pin=D1-2
+Added Pin To Net: NetName=NetD3_2 Pin=D1-2
+Change Net Name : Old Net Name=NetD3_2 New Net Name=GND

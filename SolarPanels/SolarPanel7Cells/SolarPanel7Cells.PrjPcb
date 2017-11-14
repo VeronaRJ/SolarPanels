@@ -56,23 +56,6 @@ GenerateClassCluster=0
 DocumentUniqueId=NLTXGNMO
 
 [Document2]
-DocumentPath=SolarPanel7Cells.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RTLBNIRV
-
-[Document3]
 DocumentPath=..\SolarPanelZPlus\SolarPanelZPlus.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -89,7 +72,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MVHBQGGU
 
-[Document4]
+[Document3]
 DocumentPath=..\SolarPanelZPlus\SolarpanelZPlus.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,6 +88,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DNHGJWLF
+
+[Document4]
+DocumentPath=SolarPanel7Cells2.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AQQJAFKA
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for SolarPanel7Cells\SolarPanel7Cells.NET
@@ -991,6 +991,7 @@ Type110=1
 Type111=1
 Type112=1
 Type113=1
+MultiChannelAlternate=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
