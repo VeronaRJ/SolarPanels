@@ -1,0 +1,92 @@
+Removed Pin From Net: NetName=P2 VSC Pin=532610471-1-4
+Removed Pin From Net: NetName=P3 VSC Pin=532610471-2-3
+Added Component: Designator=532610471-3(532610471)
+Add component. Clean all parameters for all variants
+Added Component: Designator=532610471-nXc(532610471)
+Add component. Clean all parameters for all variants
+Added Component: Designator=532610471-nXp(532610471)
+Add component. Clean all parameters for all variants
+Added Component: Designator=532610471-nYc(532610471)
+Add component. Clean all parameters for all variants
+Added Component: Designator=532610471-nYp(532610471)
+Add component. Clean all parameters for all variants
+Added Component: Designator=532610471-pYc(532610471)
+Add component. Clean all parameters for all variants
+Added Component: Designator=532610471-pYp(532610471)
+Add component. Clean all parameters for all variants
+Added Component: Designator=532610471-pZc(532610471)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U4(SOD-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MBR0520LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Added Component: Designator=U5(SOD-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MBR0520LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=P2 VSC Pin=532610471-2-3
+Added Pin To Net: NetName=GND Pin=532610471-3-1
+Added Pin To Net: NetName=GND Pin=532610471-3-2
+Added Pin To Net: NetName=P3 VSC Pin=532610471-3-3
+Added Pin To Net: NetName=GND Pin=532610471-nXc-1
+Added Pin To Net: NetName=GND Pin=532610471-nXp-1
+Added Pin To Net: NetName=GND Pin=532610471-nYc-1
+Added Pin To Net: NetName=GND Pin=532610471-nYc-3
+Added Pin To Net: NetName=GND Pin=532610471-nYp-1
+Added Pin To Net: NetName=GND Pin=532610471-pYc-1
+Added Pin To Net: NetName=GND Pin=532610471-pYc-3
+Added Pin To Net: NetName=GND Pin=532610471-pYp-1
+Added Pin To Net: NetName=P1 VSC Pin=532610471-pYp-2
+Added Pin To Net: NetName=P2 VSC Pin=532610471-pYp-3
+Added Pin To Net: NetName=P3 VSC Pin=532610471-pYp-4
+Added Pin To Net: NetName=GND Pin=532610471-pZc-1
+Change Net Name : Old Net Name=P1 VSC New Net Name=P1 VSC 1
+Change Net Name : Old Net Name=P2 VSC New Net Name=P2 VSC 1
+Change Net Name : Old Net Name=P3 VSC New Net Name=P3 VSC 1
+Added Pin To Net: NetName=C1 D IN Pin=532610471-pZc-2
+Added Pin To Net: NetName=C1 D IN Pin=U4-2
+Added Net: Name=C1 D IN
+Added Pin To Net: NetName=C1 LH Pin=532610471-pYc-2
+Added Pin To Net: NetName=C1 LH Pin=532610471-pZc-3
+Added Net: Name=C1 LH
+Added Pin To Net: NetName=C2 D IN Pin=532610471-nXc-2
+Added Pin To Net: NetName=C2 D IN Pin=U5-2
+Added Net: Name=C2 D IN
+Added Pin To Net: NetName=C2 LH Pin=532610471-nXc-3
+Added Pin To Net: NetName=C2 LH Pin=532610471-nYc-2
+Added Net: Name=C2 LH
+Added Pin To Net: NetName=P1 VSC 2 Pin=532610471-1-4
+Added Pin To Net: NetName=P1 VSC 2 Pin=532610471-nXp-2
+Added Pin To Net: NetName=P1 VSC 2 Pin=532610471-nYp-2
+Added Net: Name=P1 VSC 2
+Added Pin To Net: NetName=P2 VSC 2 Pin=532610471-2-4
+Added Pin To Net: NetName=P2 VSC 2 Pin=532610471-nXp-3
+Added Pin To Net: NetName=P2 VSC 2 Pin=532610471-nYp-3
+Added Pin To Net: NetName=P2 VSC 2 Pin=U5-1
+Added Net: Name=P2 VSC 2
+Added Pin To Net: NetName=P3 VSC 2 Pin=532610471-3-4
+Added Pin To Net: NetName=P3 VSC 2 Pin=532610471-nXp-4
+Added Pin To Net: NetName=P3 VSC 2 Pin=532610471-nYp-4
+Added Pin To Net: NetName=P3 VSC 2 Pin=U4-1
+Added Net: Name=P3 VSC 2
+Added Member To Class: ClassName=SolarPanelXPlus Member=Component 532610471-3 Connector 4POS Molex PicoBlade
+Added Member To Class: ClassName=SolarPanelXPlus Member=Component 532610471-nXc Connector 4POS Molex PicoBlade
+Added Member To Class: ClassName=SolarPanelXPlus Member=Component 532610471-nXp Connector 4POS Molex PicoBlade
+Added Member To Class: ClassName=SolarPanelXPlus Member=Component 532610471-nYc Connector 4POS Molex PicoBlade
+Added Member To Class: ClassName=SolarPanelXPlus Member=Component 532610471-nYp Connector 4POS Molex PicoBlade
+Added Member To Class: ClassName=SolarPanelXPlus Member=Component 532610471-pYc Connector 4POS Molex PicoBlade
+Added Member To Class: ClassName=SolarPanelXPlus Member=Component 532610471-pYp Connector 4POS Molex PicoBlade
+Added Member To Class: ClassName=SolarPanelXPlus Member=Component 532610471-pZc Connector 4POS Molex PicoBlade
+Added Member To Class: ClassName=SolarPanelXPlus Member=Component U4 MBR0520LT1G
+Added Member To Class: ClassName=SolarPanelXPlus Member=Component U5 MBR0520LT1G
+Added Room: Name=SolarPanelXPlus

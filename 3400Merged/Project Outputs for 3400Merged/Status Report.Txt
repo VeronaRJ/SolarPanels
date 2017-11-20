@@ -1,0 +1,16 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [3400Merged.PrjPcb]
+   Generated File[mergedPCBs.GTL]
+   Generated File[mergedPCBs.GBL]
+   Generated File[mergedPCBs.GD1]
+   Generated File[mergedPCBs.GG1]
+   Generated File[mergedPCBs.RUL]
+   Generated File[mergedPCBs.EXTREP]
+   Generated File[mergedPCBs.REP]
+
+
+Files Generated   : 7
+Documents Printed : 0
+
+Finished Output Generation At 1:48:36 PM On 11/10/2017

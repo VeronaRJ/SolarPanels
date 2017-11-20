@@ -1,0 +1,7 @@
+Change Component Comment : Designator=3 Old Comment=Comment New Comment=SolAeroBJTSpaceSolarCell
+Change Component Designator: OldDesignator=3 NewDesignator=S1
+Added Pin To Net: NetName=C1 VSC Pin=S1-1
+Added Pin To Net: NetName=C1 VL Pin=S1-2
+Added Pin To Net: NetName=C1 VL Pin=S1-2
+Added Member To Class: ClassName=SolarPanelZPlus Member=Component S1 SolAeroBJTSpaceSolarCell
+Added Room: Name=SolarPanelZPlus

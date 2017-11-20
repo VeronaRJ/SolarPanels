@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GS P1 GND Pin=532610471-1-2
+Removed Pin From Net: NetName=GS P1 Vsc Pin=532610471-1-3
+Removed Pin From Net: NetName=GS P1 Vsc Pin=532610471-1-4
+Removed Pin From Net: NetName=NetS1_1 Pin=S1-1
+Removed Pin From Net: NetName=GS P1 GND Pin=S1-2
+Removed Pin From Net: NetName=GS P1 GND Pin=S1-2
+Added Pin To Net: NetName=GS P1 Vsc Pin=532610471-1-2
+Added Pin To Net: NetName=NetS1_1 Pin=532610471-1-3
+Added Pin To Net: NetName=GS P1 GND Pin=532610471-1-4
+Added Pin To Net: NetName=GS P1 Vsc Pin=S1-1
+Added Pin To Net: NetName=NetS1_1 Pin=S1-2
+Added Pin To Net: NetName=NetS1_1 Pin=S1-2
+Change Net Name : Old Net Name=GS P1 GND New Net Name=GND
+Change Net Name : Old Net Name=GS P1 Vsc New Net Name=C1 VSC
+Change Net Name : Old Net Name=NetS1_1 New Net Name=C1 VL
+Added Room: Name=SolarPanelZPlus

@@ -1,0 +1,4 @@
+Change Component Comment : Designator=D2 Old Comment=Comment New Comment=Solar Cell
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Added Pin To Net: NetName=C1 VSC Pin=D1-1
+Added Member To Class: ClassName=SolarPanel7Cells Member=Component D1 Solar Cell
