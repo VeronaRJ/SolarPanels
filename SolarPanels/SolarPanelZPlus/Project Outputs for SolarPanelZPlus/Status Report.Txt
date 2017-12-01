@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SolarPanelZPlus.PrjPcb]
+   Generated File[SolarpanelZPlus-Plated.TXT]
+   Generated File[SolarpanelZPlus.LDP]
+   Generated File[SolarpanelZPlus.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:03:24 PM On 12/1/2017
