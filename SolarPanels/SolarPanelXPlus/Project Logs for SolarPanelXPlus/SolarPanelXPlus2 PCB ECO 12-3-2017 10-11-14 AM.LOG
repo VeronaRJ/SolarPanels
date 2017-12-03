@@ -1,0 +1,7 @@
+Change Component Comment : Designator=P2 Old Comment=Comment New Comment=Connector 4POS Molex PicoBlade
+Change Component Comment : Designator=P4 Old Comment=Comment New Comment=Connector 4POS Molex PicoBlade
+Change Component Comment : Designator=P6 Old Comment=Comment New Comment=Connector 4POS Molex PicoBlade
+Added Member To Class: ClassName=SolarPanelXPlus Member=Component 532610471-pYp Connector 4POS Molex PicoBlade
+Added Member To Class: ClassName=SolarPanelXPlus Member=Component P2 Connector 4POS Molex PicoBlade
+Added Member To Class: ClassName=SolarPanelXPlus Member=Component P4 Connector 4POS Molex PicoBlade
+Added Member To Class: ClassName=SolarPanelXPlus Member=Component P6 Connector 4POS Molex PicoBlade
