@@ -1,15 +1,16 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: SolarpanelZPlus.PcbDoc   12/13/2017  4:13:29 AM
+NCDrill File Report For: SolarPanelXPlus2.PcbDoc   12/13/2017  4:11:20 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
-ASCII Plated RoundHoles File : SolarpanelZPlus-Plated.TXT
+ASCII RoundHoles File : SolarPanelXPlus2.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.71mm (28mil)                                            Round             1         PTH        0.00mm (0.00inch)
-T2      3mm (118mil)                                              Round             4         PTH        190.00mm (7.48inch)
+T1      0.71mm (28mil)                                            Round             6         PTH        395.36mm (15.57inch)
+T2      0.78mm (31mil)                                            Round             1         PTH        0.00mm (0.00inch)
+T3      3mm (118mil)                                              Round             4         PTH        817.86mm (32.20inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              5
+Totals                                                                              11
 
 Total Processing Time (hh:mm:ss) : 00:00:00
