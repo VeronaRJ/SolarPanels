@@ -107,78 +107,74 @@ GenerateClassCluster=0
 DocumentUniqueId=AQQJAFKA
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for SolarPanel7Cells\SolarPanel7Cells2-Plated.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for SolarPanel7Cells\SolarPanel7Cells2.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for SolarPanel7Cells\SolarPanel7Cells2.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for SolarPanel7Cells\SolarPanel7Cells2.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for SolarPanel7Cells\SolarPanel7Cells2.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for SolarPanel7Cells\SolarPanel7Cells2.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for SolarPanel7Cells\SolarPanel7Cells2.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for SolarPanel7Cells\SolarPanel7Cells2.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for SolarPanel7Cells\SolarPanel7Cells2.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for SolarPanel7Cells\SolarPanel7Cells2.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for SolarPanel7Cells\SolarPanel7Cells2.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for SolarPanel7Cells\SolarPanel7Cells2.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for SolarPanel7Cells\SolarPanel7Cells2.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for SolarPanel7Cells\SolarPanel7Cells2.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for SolarPanel7Cells\SolarPanel7Cells2.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for SolarPanel7Cells\SolarPanel7Cells2.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for SolarPanel7Cells\SolarPanel7Cells2.REP
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for SolarPanel7Cells\SolarPanel7Cells2.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for SolarPanel7Cells\SolarPanel7Cells.NET
 DItemRevisionGUID=
 
@@ -1067,7 +1063,6 @@ Type110=1
 Type111=1
 Type112=1
 Type113=1
-MultiChannelAlternate=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
